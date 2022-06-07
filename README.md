@@ -1,5 +1,3 @@
-SungKyunKwan Univ. Mathematics (2017~) / Software (2021~)
+Sungkyunkwan Univ.성균관대학교 수학과 (2017~) / 소프트웨어 Software (2021~)
 
-KimTaeHoon
-
-Do Work What You Really Want.
+KimTaeHoon 김태훈
